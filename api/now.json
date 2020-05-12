@@ -1,6 +1,7 @@
 {
   "version": 2,
   "name": "petgram-back-pepe",
+  "alias": ["petgram-api-pepe"],
   "builds": [{ "src": "index.js", "use": "@now/node" }],
   "routes": [{
     "headers": {
